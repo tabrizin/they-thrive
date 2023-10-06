@@ -12662,14 +12662,6 @@ p {
   margin-bottom: 4rem;
 }
 
-.fs-20 {
-  font-size: 2rem !important;
-}
-
-.fs-15 {
-  font-size: 1.5rem !important;
-}
-
 @media (min-width: 768px) {
   section {
     padding: 9rem 0;
@@ -13033,6 +13025,7 @@ header.masthead .masthead-heading {
 .timeline .timeline-heading h4.subheading,
 .timeline .timeline-heading .subheading.h4 {
   text-transform: none;
+  font-size: 1rem;
 }
 
 .timeline .timeline-body>ul,
