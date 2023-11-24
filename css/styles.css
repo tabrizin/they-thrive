@@ -18,7 +18,7 @@
   --bs-pink: #d63384;
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
-  --bs-yellow: #228B22;
+  --bs-yellow: #ffc800;
   --bs-green: #198754;
   --bs-teal: #20c997;
   --bs-cyan: #0dcaf0;
@@ -12870,6 +12870,7 @@ header.masthead .masthead-heading {
 #portfolio .portfolio-item .portfolio-caption {
   padding: 1.5rem;
   text-align: center;
+  background-color: #fff;
 }
 
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
